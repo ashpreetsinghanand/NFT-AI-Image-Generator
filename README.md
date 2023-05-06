@@ -1,5 +1,20 @@
-# AI NFT Generator
+# 🤖 NFT AI Image Generator 🤖
 
+This is a NFT-AI image generator website. <br><br>
+Where you can genrate image of your imagination.<br><br>
+Just by giving name and description you can mint that image and view metadata of the NFT.
+
+## Project Explaination -> 
+ 
+<b> 1. First local run hardhat node and connect your metamask wallet with coonect button in the website </b>
+  <br><br>
+<b> 2. Fill the NFT name and Description of the AI Image</b>     
+<br>
+<b> 3. To genrate click on create and mint button ,the metamask wallet will open and click on allow transcation <b>
+ <br> <p> <img src = "pictures/s1.png" width = 600 height = 400></p>
+ 
+<b> 4. Now click on View Metadata to view medata of the AI Genrated NFT 😍 </b>
+  <p> <img src = "pictures/s2.png" width = 600 height = 400></p>
 ## Technology Stack & Tools
 
 - Solidity (Writing Smart Contracts & Tests)
@@ -15,7 +30,7 @@
 
 ## Setting Up
 ### 1. Clone/Download the Repository
-
+git clone https://github.com/ashpreetsinghanand/NFT-AI-Image-Generator.git </b>
 ### 2. Install Dependencies:
 `$ npm install`
 
